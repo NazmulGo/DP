@@ -1,3 +1,4 @@
+// reach 1,1 to n, m on a matix in min_cost
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
